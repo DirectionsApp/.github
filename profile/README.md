@@ -1,0 +1,1 @@
+<img alt="Directions App" src="https://capsule-render.vercel.app/api?text=Directions%20App&animation=twinkling&type=waving&color=0:EEFF0000,100:a82da8&fontColor=CCCCFF&desc=2022&height=300&descAlignY=70" width=100% />
